@@ -1,0 +1,30 @@
+
+ol{
+	color: black;
+}
+.top-content>h2 {
+	color: brown;
+
+}
+#add-con{
+	color: blueviolet;
+}
+
+.main-content__secondpt,.main-content__firstpt{
+	color: rgb(176, 81, 81);
+}
+
+.add-info{
+	background-color: rgb(84, 230, 92);
+}
+
+.add-info~a{
+	color: gold;
+}
+.add-info+p {
+	color: aqua;
+}
+
+.main-content__fifthpt p{
+color: blue;
+}
